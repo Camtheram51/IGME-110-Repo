@@ -4,7 +4,7 @@
 
 ***Half Elf
 
-![Half Elf](Half Elf.jpg)
+![Half Elf](HalfElf.jpg)
 
 [Stats](https://dnd5e.wikidot.com/lineage:half-elf)
 
