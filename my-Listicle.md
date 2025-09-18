@@ -33,4 +33,5 @@
 ### Hermit
 
 ![Hermit](Hermit.jpg)
+
 [stats](https://dnd5e.wikidot.com/background:hermit)
