@@ -1,8 +1,8 @@
-#Resorces for Berry Surgardrop
+# Resorces for Berry Surgardrop
 ---
-##Race
+## Race
 
-###Half Elf
+### Half Elf
 
 ![Half Elf](HalfElf.jpg)
 
@@ -10,9 +10,9 @@
 
 ---
 
-##Class
+## Class
 
-###Warlock
+### Warlock
 
 ![Warlock](warlock.jpg)
 
