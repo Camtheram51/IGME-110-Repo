@@ -17,3 +17,12 @@
 ![Warlock](warlock.jpg)
 
 [Stats](https://dnd5e.wikidot.com/warlock)
+
+---
+## Patron
+
+### Celestial(Unicorn)
+
+![Unicorn](Princess_Celestia-0.webp)
+
+[Stats](https://dnd5e.wikidot.com/warlock:celestial)
