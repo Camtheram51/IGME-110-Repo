@@ -26,3 +26,11 @@
 ![Unicorn](Princess_Celestia-0.webp)
 
 [Stats](https://dnd5e.wikidot.com/warlock:celestial)
+
+---
+## Background
+
+### Hermit
+
+![Hermit](Hermit.jpg)
+[stats](https://dnd5e.wikidot.com/background:hermit)
