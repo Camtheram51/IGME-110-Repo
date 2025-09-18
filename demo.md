@@ -10,7 +10,7 @@ Lecture notes for awesome classes (like this one!)
 "Marking up" message text in Discord & Slack
 Documents about anything, for anyone!
 
-III. Syntax
+## III. Syntax
 How do I make:
 - emoji
 - clickable links
@@ -28,6 +28,6 @@ and display images in a markdown document?
 `const Pi =3.14`
 
 ---
-IV. Other
+## IV. Other
 ![dopey smurph](https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240?cb=20180929070848)
 :joy
