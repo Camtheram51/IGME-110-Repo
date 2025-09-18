@@ -30,4 +30,4 @@ and display images in a markdown document?
 ---
 ## IV. Other
 ![dopey smurph](Dopey4.JPG.webp)
-:joy
+:joy:
